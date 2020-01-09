@@ -55,10 +55,7 @@
 ![语音问答](https://images.gitee.com/uploads/images/2020/0109/215930_ecc1379a_1648193.png "屏幕截图.png")
  ![调用的api](https://images.gitee.com/uploads/images/2020/0109/215549_9ba1d298_1648193.png "屏幕截图.png")
 ## 2.拍一拍
-[拍一拍]（https://github.com/KIKINICE/museum/blob/master/%E6%8B%8D%E4%B8%80%E6%8B%8D.png)
-
-## 3.智能浏览
-![智能浏览](https://images.gitee.com/uploads/images/2020/0109/220331_25fb6cc0_1648193.png "屏幕截图.png")
+https://github.com/KIKINICE/museum/blob/master/%E6%8B%8D%E4%B8%80%E6%8B%8D.png
 # API使用水平：
 ## 1.调用Azure API key 进行图像识别
 ```
